@@ -5,7 +5,7 @@
 🛠️ Building next-gen **Open Value Networks & peer-to-peer collaboration tools**.  
 
 💡 My favorite technologies:  
-![Svelte](https://img.shields.io/badge/-Svelte-orange?style=flat&logo=svelte) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)  
+![Svelte](https://img.shields.io/badge/-Svelte-orange?style=flat&logo=svelte) ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat&logo=rust)  
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-blue?style=flat&logo=webassembly) ![Holochain](https://img.shields.io/badge/-Holochain-purple?style=flat)
 
 🌍 Exploring **P2P economies, digital permaculture, and Web3 alternatives**.  
