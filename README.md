@@ -49,16 +49,16 @@
 
 ## 🌍 Exploring & Writing
 
-🌱 **Research Areas**: P2P economies, digital permaculture, Web3 alternatives, collective intelligence
-📜 **Writing**: [P2P Economy & Decentralized Tech](https://substack.com/@soushi888) on Substack
-🎓 **Teaching**: [Cours d'Économie P2P](https://github.com/Soushi888/cours-economie-p2p) (French)
+- 🌱 **Research Areas**: P2P economies, digital permaculture, Web3 alternatives, collective intelligence
+- 📜 **Writing**: [P2P Economy & Decentralized Tech](https://substack.com/@soushi888) on Substack
+- 🎓 **Teaching**: [Cours d'Économie P2P](https://github.com/Soushi888/cours-economie-p2p) (French)
 
 ## 🤝 Let's Connect
 
-💬 **Interested in discussing**: Holochain, hREA, AI integration, distributed collaboration, P2P economics
-📧 **Email**: [Sacha.pignot@protonmail.com](mailto:Sacha.pignot@protonmail.com)
-🐦 **Twitter**: [@soushi888](https://twitter.com/soushi888)
-🌐 **Website**: [Digital Garden](https://soushi888.github.io/alternef-digital-garden/)
+- 💬 **Interested in discussing**: Holochain, hREA, AI integration, distributed collaboration, P2P economics
+- 📧 **Email**: [Sacha.pignot@protonmail.com](mailto:Sacha.pignot@protonmail.com)
+- 🐦 **Twitter**: [@soushi888](https://twitter.com/soushi888)
+- 🌐 **Website**: [Digital Garden](https://soushi888.github.io/alternef-digital-garden/)
 
 ---
 
