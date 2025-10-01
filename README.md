@@ -42,11 +42,6 @@
 **Reusable AI configurations** for enhanced development workflows
 `AI Assistance` `Developer Experience` `Workflow Automation`
 
-## 📊 GitHub Stats
-
-![Soushi888's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soushi888&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soushi888&layout=compact&theme=dark&hide_border=true)
-
 ## 🌍 Exploring & Writing
 
 - 🌱 **Research Areas**: P2P economies, digital permaculture, Web3 alternatives, collective intelligence
