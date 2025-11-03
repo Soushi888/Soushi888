@@ -38,10 +38,6 @@
 **Personal knowledge ecosystem** exploring P2P systems, economics, and technology
 `TypeScript` `Quartz` `Knowledge Management` `Digital Permaculture`
 
-### 🤖 [AI Rules & Workflows](https://github.com/Soushi888/ai-rules-and-workflows)
-**Reusable AI configurations** for enhanced development workflows
-`AI Assistance` `Developer Experience` `Workflow Automation`
-
 ## 🌍 Exploring & Writing
 
 - 🌱 **Research Areas**: P2P economies, digital permaculture, Web3 alternatives, collective intelligence
