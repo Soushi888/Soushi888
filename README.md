@@ -26,7 +26,7 @@
 
 ### 🏛️ [Nondominium](https://github.com/sensorica/nondominium)
 
-**Holochain hApp implementing a P2P resource governance platform** with embedded PPR (Productive-Public-Relationships) system
+**Holochain hApp implementing a P2P resource governance platform** with embedded PPR (Private Participation Receipts) system
 `Rust` `Holochain` `ValueFlows` `P2P Governance` `WASM`
 
 ### 🏪 [Requests & Offers](https://github.com/happenings-community/requests-and-offers)
