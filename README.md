@@ -78,6 +78,6 @@ distributed-systems architecture, and AI-assisted development for niche domains.
 working on peer-to-peer coordination, cooperative platforms, or alternative economic
 infrastructure, I'd love to talk.
 
-📧 [Sacha.pignot@protonmail.com](mailto:Sacha.pignot@protonmail.com) · 🌐 [alternef.garden](https://alternef.garden) · 𝕏 [@soushi888](https://twitter.com/soushi888)
+📧 [Sacha.pignot@protonmail.com](mailto:Sacha.pignot@protonmail.com) · 🌱 [alternef.garden](https://alternef.garden) · 𝕏 [@soushi888](https://twitter.com/soushi888)
 
 <div align="center"><sub><i>Building the tools and infrastructure for a more collaborative, decentralized future.</i> 🚀</sub></div>
