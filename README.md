@@ -64,8 +64,11 @@ open-source instead of platforms. I write about it, teach it, and ship it.
 
 <div align="center">
 
-![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soushi888&show_icons=true&hide_border=true&theme=default&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soushi888&layout=compact&hide_border=true&langs_count=8&theme=default)
+![Followers](https://img.shields.io/github/followers/Soushi888?label=Followers&style=for-the-badge&logo=github&color=6B46C1)
+![Stars](https://img.shields.io/github/stars/Soushi888?label=Total%20Stars&style=for-the-badge&logo=github&color=CE422B)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSoushi888&query=public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2E7D32)
+
+**Mostly building with:** Rust · Svelte / SvelteKit · TypeScript · Holochain · Effect-TS
 
 </div>
 
